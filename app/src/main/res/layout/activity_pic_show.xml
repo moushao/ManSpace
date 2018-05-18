@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar_pic_show"
+        layout="@layout/toolbar_layout"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/pic_show_rcyc"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+    <WebView
+        android:id="@+id/show_pic_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+    </WebView>
+</LinearLayout>

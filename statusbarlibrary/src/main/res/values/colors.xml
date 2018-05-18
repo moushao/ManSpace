@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="back_normal">#aaE7E7E7</color>
+    <color name="actionsheet_blue">#029df2</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="c_light_gray3">#7F7F7F</color>
+    <color name="selectColor">#F1453B</color>
+    <color name="unselectColor">#626262</color>
+    <color name="toolbarback">#30469b</color>
+    <color name="background">#F1F1F1</color>
+    <color name="tool_color">#f7f8fa</color>
+    <color name="gray">#FFcccccc</color>
+    <color name="text_back">#dde4ff</color>
+    <color name="text_color">#555555</color>
+    <color name="buying_un_click">#2399e4</color>
+    <color name="buying_click">#2eabf4</color>
+    <color name="holo_red_light">#aaff4444</color>
+    <color name="circle_head">#5a6faF</color>
+    <color name="comment_click_bg">#CCD2DF</color>
+    <color name="gray_divider">#d7dce1</color>
+    <color name="color_f9f9f9">#f9f9f9</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="color_c6c6c6">#c6c6c6</color>
+    <color name="color_c5181818">#c5181818</color>
+    <color name="wechat_green_bg">#10ba0c</color>
+    <color name="normal_font_color">#1A1A1A</color>
+
+
+    <!--刷新头头-->
+    <color name="ptr_header_bg">#323232</color>
+    <color name="action_bar_bg">#232426</color>
+    <color name="stroke_bg">#2b2b2b</color>
+
+    <!--刷新尾部-->
+    <color name="ptr_footer_tx">#8e8e8e</color>
+
+    <!--点赞popup色值-->
+    <color name="comment_popup_bg">#4c5154</color>
+    <color name="comment_popup_tx_bg">#c7c7c7</color>
+
+    <!--文字颜色-->
+    <color name="text_hint_color">#bababa</color>
+    <color name="wechat_green_transparent">#7a10d21c</color>
+    <color name="wechat_green_bg_click">#5eec67</color>
+    <color name="delete_click_bg">#EAEAEA</color>
+
+    <!--图片点击颜色-->
+    <color name="img_foregroundColor">#85414141</color>
+
+    <!--popup背景蒙层-->
+    <color name="popup_background">#80030303</color>
+
+    <!--分割线-->
+    <color name="dark_gray_divider">#bbc2ca</color>
+    <color name="timeline_background">#f4f6f8</color>
+
+    <color name="round_rect_bg">#f8f8f8</color>
+
+    <!--文字-->
+    <color name="text_black">#1A1A1A</color>
+    <color name="text_gray">#bbc2ca</color>
+    <color name="text_dark_gray">#9fa3a7</color>
+
+    <!--popup-->
+    <color name="popup_progress_bg">#bc000000</color>
+</resources>
